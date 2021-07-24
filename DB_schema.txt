@@ -1,0 +1,6 @@
+#Create encoding table
+
+CREATE TABLE encodings(
+                        Name varchar(200) NOT NULL,
+                        encoding BYTEA NOT NULL);
+
